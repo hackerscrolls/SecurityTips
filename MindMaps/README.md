@@ -8,3 +8,4 @@
 
 <img src="https://raw.githubusercontent.com/hackerscrolls/SecurityTips/master/MindMaps/iOS_for_BugBounty.jpg" width="1080" />
 
+<img src="https://raw.githubusercontent.com/hackerscrolls/SecurityTips/master/MindMaps/SSRF.png" width="1080" />
