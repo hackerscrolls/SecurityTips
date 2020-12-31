@@ -3,10 +3,10 @@
 This repo contains full collection of HackerScrolls tips.
 
 Socials: <a href="https://twitter.com/hackerscrolls" target="_blank">
-<img src="https://raw.githubusercontent.com/hackerscrolls/SecurityTips/master/.images/twitter.png" align="center" width="25" />
+<img src="https://raw.githubusercontent.com/hackerscrolls/SecurityTips/master/.images/twitter.png" width="25" />
 </a>
 <a href="https://t.me/hackerscrolls" target="_blank">
-<img src="https://raw.githubusercontent.com/hackerscrolls/SecurityTips/master/.images/telegram.png" align="center" width="25" />
+<img src="https://raw.githubusercontent.com/hackerscrolls/SecurityTips/master/.images/telegram.png" width="25" />
 </a>
 
 
