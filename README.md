@@ -44,6 +44,7 @@ Socials: <a href="https://twitter.com/hackerscrolls" target="_blank">
   - [Gateway Finder](https://github.com/hackerscrolls/SecurityTips/tree/master/Pentest.Redteam/Gateway_Finder.jpg)
   - [Sniffing SSH Passwords with 3Snake](https://github.com/hackerscrolls/SecurityTips/tree/master/Pentest.Redteam/Sniffing_SSH_Passwords_3Snake.jpg)
   - [Tunneling TCP Over DNS](https://github.com/hackerscrolls/SecurityTips/tree/master/Pentest.Redteam/Tunneling_Over_DNS.jpg)
+  - [SOCKS to the internal server - frp proxy](https://github.com/hackerscrolls/SecurityTips/tree/master/Pentest.Redteam/Socks_to_internal_network_Frp_Proxy.png)
 - **[Recon](https://github.com/hackerscrolls/SecurityTips/tree/master/Recon)**
   - [Dirsearch by Temp Extensions](https://github.com/hackerscrolls/SecurityTips/tree/master/Recon/Dirsearch_Like_A_Pro.jpg)
   - [Find IP Behind Cloud Firewall 1](https://github.com/hackerscrolls/SecurityTips/tree/master/Recon/Find_IP_behind_cloud_Firewall_1.png)
