@@ -72,3 +72,4 @@ Socials: <a href="https://twitter.com/hackerscrolls" target="_blank">
   - [Bypassing 403 Restriction](https://github.com/hackerscrolls/SecurityTips/tree/master/Web/Bypass_403_Top_4.jpg)
   - [Insecure Deserialization](https://github.com/hackerscrolls/SecurityTips/tree/master/Web/Insecure_Deserialization.jpg)
   - [SSRF via PDF/Image Rendering](https://github.com/hackerscrolls/SecurityTips/tree/master/Web/Rendrer_PDF_Generators_SSRF.jpg)
+  - [Mass Assignment and Autobinding](https://github.com/hackerscrolls/SecurityTips/tree/master/Web/Mass_Assignment.png)
