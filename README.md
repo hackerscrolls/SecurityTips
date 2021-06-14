@@ -22,6 +22,7 @@ Socials: <a href="https://twitter.com/hackerscrolls" target="_blank">
   - [Testing 2FA](https://github.com/hackerscrolls/SecurityTips/blob/master/MindMaps/2FA_bugs.png)
   - [Testing OAuth](https://github.com/hackerscrolls/SecurityTips/blob/master/MindMaps/OAuth_bugs.png)
   - [Testing SSRF](https://github.com/hackerscrolls/SecurityTips/blob/master/MindMaps/SSRF.png)
+  - [Testing file upload](https://github.com/hackerscrolls/SecurityTips/blob/master/MindMaps/File_upload_bugs.png)
   - [iOS Security](https://github.com/hackerscrolls/SecurityTips/blob/master/MindMaps/iOS_Security.jpg)
   - [iOS for Bug Bounty](https://github.com/hackerscrolls/SecurityTips/blob/master/MindMaps/iOS_for_BugBounty.jpg)
 - **[Misc](https://github.com/hackerscrolls/SecurityTips/tree/master/Misc)**
