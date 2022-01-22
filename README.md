@@ -36,7 +36,7 @@ Socials: <a href="https://twitter.com/hackerscrolls" target="_blank">
   - [SSL Unpinning Trick](https://github.com/hackerscrolls/SecurityTips/tree/master/Mobile/Mitm/SSL_Unpinning_Case.png)
   - [Suitable Android Versions](https://github.com/hackerscrolls/SecurityTips/tree/master/Mobile/Android_Versions.png)
   - [4 Ways to Extract APK](https://github.com/hackerscrolls/SecurityTips/tree/master/Mobile/How_To_Extract_APK.png)
-  - [Exported Activities Tricks](https://github.com/hackerscrolls/SecurityTips/tree/master/Mobile/Сheck_Exported_Activities.jpg)
+  - [Exported Activities Tricks](https://github.com/hackerscrolls/SecurityTips/tree/master/Mobile/Check_Exported_Activities.jpg)
 - **[Passwords](https://github.com/hackerscrolls/SecurityTips/tree/master/Passwords)**
   - [Password Spraying](https://github.com/hackerscrolls/SecurityTips/tree/master/Passwords/Password_Spraying.jpg)
   - [Password Dictionaries - Weakpass](https://github.com/hackerscrolls/SecurityTips/tree/master/Passwords/Passwords_Weakpass.jpg)
